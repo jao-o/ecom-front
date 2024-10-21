@@ -1,0 +1,80 @@
+body {
+    background-color: #f0f4f1; 
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h2 {
+    font-weight: bold;
+    color: #4b4b4b;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 12px;
+    background-color: #f9f6f2;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    color: #6a8759;
+  }
+  
+  .card-text {
+    margin-bottom: 20px;
+    color: #555555;
+  }
+  
+  button.btn-primary {
+    background-color: #6a8759;
+    border: none;
+  }
+  
+  button.btn-primary:hover {
+    background-color: #557d45;
+  }
+  
+  button.btn-secondary {
+    background-color: #9e6b42;
+    border: none;
+  }
+  
+  button.btn-secondary:hover {
+    background-color: #7f5535;
+  }
+  
+  .shadow-sm {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  }  
+
+  /*Button Styling for Dashboard*/
+.btn-add-product {
+    background-color: #6a8759;
+    border: none;
+  }
+  
+  .btn-add-product:hover {
+    background-color: #557d45;
+  }
+  
+  .btn-view-products {
+    background-color: #9e6b42;
+    border: none;
+  }
+  
+  .btn-view-products:hover {
+    background-color: #7f5535;
+  }
+  
+  button.btn-secondary {
+    background-color: #9e6b42;
+    border: none;
+  }
+  
+  button.btn-secondary:hover {
+    background-color: #7f5535;
+  }

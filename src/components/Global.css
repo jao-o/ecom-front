@@ -1,0 +1,34 @@
+.container {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #e8e4d9;
+    border-radius: 8px;
+  }
+  
+  .form-label, .table th {
+    color: #4b4b4b;
+  }
+  
+  .form-control {
+    border-radius: 8px;
+    border-color: #c5c1b4;
+  }
+  
+  .form-control:focus {
+    border-color: #6a8759;
+    box-shadow: 0 0 5px rgba(106, 135, 89, 0.2);
+  }
+  
+  table.table {
+    background-color: #fffdf5;
+  }
+  
+  a {
+    color: #6a8759;
+  }
+  
+  a:hover {
+    color: #557d45;
+    text-decoration: none;
+  }
+  
